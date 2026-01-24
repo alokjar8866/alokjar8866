@@ -1,6 +1,12 @@
-## Hi there 👋
-<h2>Builder</h2>
+# Hi, I'm Alok D Yadav! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" />  
 
+<p><em> 
+  - 👨‍💻  I’m a MERN Stack Web Developer<br>
+  - ⚡  Up for freelance work<br>
+  - 📚  I always try use resources efficiently<br>
+  - 💪🏼  Future Goals: Learn more technologies and fix more and more problems.<br>
+  - 📫  Reach me through <a href="mailto:alokjar212@gmail.com">Email</a>.<br>
+</em></p>
 <!--
 **alokjar8866/alokjar8866** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
