@@ -7,6 +7,9 @@
   - 💪🏼  Future Goals: Learn more technologies and fix more and more problems.<br>
   - 📫  Reach me through <a href="mailto:alokjar212@gmail.com">Email</a>.<br>
 </em></p>
+
+![](https://komarev.com/ghpvc/?username=alokjar8866&color=blueviolet&style=flat-square)
+
 <!--
 **alokjar8866/alokjar8866** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
