@@ -10,7 +10,7 @@
 </em></p>
 
 ![](https://komarev.com/ghpvc/?username=alokjar8866&color=blueviolet&style=flat-square)
-[![Linkedin: Alok Yadav](https://img.shields.io/badge/-Alok-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alok-yadav-7635a4348/)](https://www.linkedin.com/in//alok-yadav-7635a4348/)
+[![Linkedin: Alok Yadav](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alok-yadav-7635a4348/)](https://www.linkedin.com/in/alok-yadav-7635a4348/)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Languages and Tools
 <p align="center">
