@@ -1,9 +1,9 @@
-![cool](https://i.postimg.cc/FHPZw6nD/wp11443616.jpg)
+![cool](https://i.postimg.cc/zvY6WypH/IMG_20260128_234748.jpg)
 # Hi, I'm Alok D Yadav! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" />  
 
 <p><em> 
   - 👨‍💻  I’m a MERN Stack Web Developer<br>
-  - ⚡  Up for freelance work<br>
+  - ⚡  Ready to take freelance work<br>
   - 📚  I always try use resources efficiently<br>
   - 💪🏼  Future Goals: Learn more technologies and fix more and more problems.<br>
   - 📫  Reach me through <a href="mailto:alokjar212@gmail.com">Email</a>.<br>
