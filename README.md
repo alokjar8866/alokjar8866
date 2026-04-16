@@ -1,6 +1,6 @@
 ![cool](https://i.postimg.cc/zvY6WypH/IMG_20260128_234748.jpg)
 
-<h1 style="vertical-align:middle">Hi, I'm Alok D Yadav! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" style="vertical-align: middle" /></h1>
+<h1 style="vertical-align:middle">Hi, I'm Alok D Yadav! <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" style="vertical-align: middle" /></h1></picture>
 
 <p><em> 
   - 👨‍💻  I’m a MERN Stack Web Developer & Builder<br>
