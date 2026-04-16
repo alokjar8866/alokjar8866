@@ -13,7 +13,7 @@
 ![](https://komarev.com/ghpvc/?username=alokjar8866&color=blueviolet&style=flat-square)
 [![Linkedin: Alok Yadav](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alok-yadav-7635a4348/)](https://www.linkedin.com/in/alok-yadav-7635a4348/)
 ---
-<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Languages and Tools </h1>
+<h1><picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> </picture>Languages and Tools </h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,express,nodejs,mongodb,git,github,figma,vscode,postman,c,java,stackoverflow&perline=8" />
