@@ -1,5 +1,6 @@
 ![cool](https://i.postimg.cc/zvY6WypH/IMG_20260128_234748.jpg)
-# Hi, I'm Alok D Yadav! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" />  
+
+<h1>Hi, I'm Alok D Yadav! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" style="vertical-align: middle" /></h1>
 
 <p><em> 
   - 👨‍💻  I’m a MERN Stack Web Developer & Builder<br>
@@ -11,8 +12,8 @@
 
 ![](https://komarev.com/ghpvc/?username=alokjar8866&color=blueviolet&style=flat-square)
 [![Linkedin: Alok Yadav](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alok-yadav-7635a4348/)](https://www.linkedin.com/in/alok-yadav-7635a4348/)
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Languages and Tools
+---
+<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Languages and Tools </h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,express,nodejs,mongodb,git,github,figma,vscode,postman,c,java,stackoverflow&perline=8" />
